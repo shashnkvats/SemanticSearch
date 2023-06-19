@@ -1,0 +1,9 @@
+pytorch>=1.7
+transformers
+datasets
+faiss-cpu
+numpy
+pandas
+matplotlib
+pillow
+tqdm
